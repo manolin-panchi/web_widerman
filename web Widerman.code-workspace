@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Tecnicas Avanzadas de la  programacion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tecnicas Avanzadas de la  programacion"
+	}
+}
